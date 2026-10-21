@@ -10,6 +10,9 @@
 
 app.py, or submission.txt. The whole directory, really.
 
+##Authorization Statement
+This pentetration test was done with authorization from Professor Zeller. Tests were conducted purely within the scope of this project.
+
 ## Description
 
 An intentionally vulnerable Flash application for pentest testing.
@@ -25,7 +28,7 @@ An intentionally vulnerable Flash application for pentest testing.
 
 ### Installing
 
-- Run 'git clone https://github.com/BrennanA757/https://github.com/BrennanA757/PWP---Mini-Project-4.git' and 'cd https://github.com/BrennanA757/PWP---Mini-Project-4'
+- Run 'git clone https://github.com/BrennanA757/https://github.com/BrennanA757/miniproject4BrennanAdams.git' and 'cd https://github.com/BrennanA757/miniproject4BrennanAdams'
 
 ### Executing program
 
